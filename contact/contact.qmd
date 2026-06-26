@@ -1,0 +1,34 @@
+::: {.hero-subsection}
+
+
+# Contact
+
+
+
+
+:::
+
+## Interested in our science, collaborations, resources or working with us? - We are looking forward hearing from you!
+
+
+::: {.contact-card}
+
+
+
+**Email**  
+[Email to Pascal Mutz](mailto:pascal.mutz@gmx.de)
+
+**Office**  
+Life Environment Research Center Ostrava (LERCO)
+University of Ostrava
+
+
+**Address**  
+University of Ostrava - LERCO 
+Syllabova, 703 00
+Ostrava 3
+Czech Republic  
+
+
+:::
+

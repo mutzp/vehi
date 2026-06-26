@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Main questions",
+    "section": "",
+    "text": "Research"
+  },
+  {
+    "objectID": "research/research.html#metatranscriptomics",
+    "href": "research/research.html#metatranscriptomics",
+    "title": "Research",
+    "section": "Metatranscriptomics",
+    "text": "Metatranscriptomics\nWe develop approaches to characterize transcriptomes from complex environmental and biological samples.\n\nKey Questions\n\nWhich organisms contribute RNA to a sample?\nHow can transcriptional activity be measured accurately?\nWhat unexplored RNA species exist?"
+  },
+  {
+    "objectID": "research/research.html#rna-viruses",
+    "href": "research/research.html#rna-viruses",
+    "title": "Research",
+    "section": "RNA Viruses",
+    "text": "RNA Viruses\nRNA viruses represent one of the largest reservoirs of unexplored biological diversity.\n\nCurrent Topics\n\nVirus discovery\nViral evolution\nHost-virus interactions"
+  },
+  {
+    "objectID": "research/research.html#circular-rnas",
+    "href": "research/research.html#circular-rnas",
+    "title": "Research",
+    "section": "Circular RNAs",
+    "text": "Circular RNAs\nCircular RNAs remain poorly understood in many biological contexts.\n\nCurrent Topics\n\nBiogenesis\nFunctional characterization\nBiomarker development"
+  },
+  {
+    "objectID": "research/research.html#computational-methods",
+    "href": "research/research.html#computational-methods",
+    "title": "Research",
+    "section": "Computational Methods",
+    "text": "Computational Methods\nWe build computational pipelines for large-scale transcriptomic analysis.\n\nFocus Areas\n\nAssembly\nAnnotation\nClassification\nMachine learning"
+  },
+  {
+    "objectID": "people/people.html",
+    "href": "people/people.html",
+    "title": "People",
+    "section": "",
+    "text": "Short biography.\nResearch interests:\n\nMetatranscriptomics\nRNA biology\nVirology\n\nEmail: your.email@university.edu\n\n\n\n\n\n\n\nResearch interests.\n\n\n\n\n\n\n\nProject description.\n\n\n\nProject description.\n\n\n\n\n\n\n\nCurrent position."
+  },
+  {
+    "objectID": "people/people.html#principal-investigator",
+    "href": "people/people.html#principal-investigator",
+    "title": "People",
+    "section": "Principal Investigator",
+    "text": "Principal Investigator\n\nPascal Mutz\n\nShort biography.\nResearch interests:\n\nMetatranscriptomics\nRNA biology\nVirology\n\nEmail: your.email@university.edu"
+  },
+  {
+    "objectID": "people/people.html#postdoctoral-researchers",
+    "href": "people/people.html#postdoctoral-researchers",
+    "title": "People",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\n\nName\nResearch interests."
+  },
+  {
+    "objectID": "people/people.html#phd-students",
+    "href": "people/people.html#phd-students",
+    "title": "People",
+    "section": "PhD Students",
+    "text": "PhD Students\n\nName\nProject description.\n\n\nName\nProject description."
+  },
+  {
+    "objectID": "people/people.html#alumni",
+    "href": "people/people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\nName\nCurrent position."
+  },
+  {
+    "objectID": "news/join.html",
+    "href": "news/join.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "We are always interested in hearing from motivated students and researchers.\n\n\nPotential PhD candidates should have interests in:\n\nBioinformatics\nRNA biology\nVirology\nComputational biology\n\n\n\n\nWe welcome inquiries from researchers with complementary expertise.\n\n\n\nProjects are available throughout the year.\n\n\n\nPlease send:\n\nCV\nBrief statement of interest\nRelevant publications (if applicable)\n\nEmail: your.email@university.edu"
+  },
+  {
+    "objectID": "news/join.html#phd-students",
+    "href": "news/join.html#phd-students",
+    "title": "Join Us",
+    "section": "",
+    "text": "Potential PhD candidates should have interests in:\n\nBioinformatics\nRNA biology\nVirology\nComputational biology"
+  },
+  {
+    "objectID": "news/join.html#postdoctoral-researchers",
+    "href": "news/join.html#postdoctoral-researchers",
+    "title": "Join Us",
+    "section": "",
+    "text": "We welcome inquiries from researchers with complementary expertise."
+  },
+  {
+    "objectID": "news/join.html#undergraduate-and-masters-students",
+    "href": "news/join.html#undergraduate-and-masters-students",
+    "title": "Join Us",
+    "section": "",
+    "text": "Projects are available throughout the year."
+  },
+  {
+    "objectID": "news/join.html#contact",
+    "href": "news/join.html#contact",
+    "title": "Join Us",
+    "section": "",
+    "text": "Please send:\n\nCV\nBrief statement of interest\nRelevant publications (if applicable)\n\nEmail: your.email@university.edu"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mutz Lab",
+    "section": "",
+    "text": "Our research investigates the diversity, function, and evolution of RNA molecules in biological systems, with a particular focus on metatranscriptomics, virology, and emerging RNA species.\n\n\nWe aim to develop experimental and computational approaches that reveal hidden layers of transcriptional complexity across cells, microbes, viruses, and circular RNAs.\n\n\n\n\nMetatranscriptomics\nRNA virus discovery\nCircular RNAs\nComputational RNA biology\nHost-pathogen interactions\n\n\n\n\n\nNew publication on RNA diversity (May 2026)\nNew PhD position available (April 2026)\nPresentation at XYZ Conference (March 2026)\n\nExplore our research"
+  },
+  {
+    "objectID": "index.html#understanding-rna-diversity-across-biological-systems",
+    "href": "index.html#understanding-rna-diversity-across-biological-systems",
+    "title": "Mutz Lab",
+    "section": "",
+    "text": "Our research investigates the diversity, function, and evolution of RNA molecules in biological systems, with a particular focus on metatranscriptomics, virology, and emerging RNA species.\n\n\nWe aim to develop experimental and computational approaches that reveal hidden layers of transcriptional complexity across cells, microbes, viruses, and circular RNAs.\n\n\n\n\nMetatranscriptomics\nRNA virus discovery\nCircular RNAs\nComputational RNA biology\nHost-pathogen interactions\n\n\n\n\n\nNew publication on RNA diversity (May 2026)\nNew PhD position available (April 2026)\nPresentation at XYZ Conference (March 2026)\n\nExplore our research"
+  },
+  {
+    "objectID": "news/news.html",
+    "href": "news/news.html",
+    "title": "News",
+    "section": "",
+    "text": "New publication accepted\nOur latest work on RNA diversity has been accepted.\n\n\n\n\nOpen PhD Position\nWe are recruiting a PhD student & a postdoc in computational RNA virus biology.\n\n\n\n\nConference Presentation\nThe lab presented new results at XYZ Conference."
+  },
+  {
+    "objectID": "news/news.html#section",
+    "href": "news/news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "New publication accepted\nOur latest work on RNA diversity has been accepted.\n\n\n\n\nOpen PhD Position\nWe are recruiting a PhD student & a postdoc in computational RNA virus biology.\n\n\n\n\nConference Presentation\nThe lab presented new results at XYZ Conference."
+  },
+  {
+    "objectID": "publications/publications.html",
+    "href": "publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A short list of representative publications can be highlighted here.\n\n\n\nExample publication\nExample publication"
+  },
+  {
+    "objectID": "publications/publications.html#selected-publications",
+    "href": "publications/publications.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nA short list of representative publications can be highlighted here.\n\n2026\n\nExample publication\nExample publication"
+  },
+  {
+    "objectID": "home/index.html",
+    "href": "home/index.html",
+    "title": "Virus Evolution",
+    "section": "",
+    "text": "Our research investigates the evolution of viruses and how it impacts the interplay of viruses and their hosts. We focus on RNA viruses and novel RNA replicators with the aim to identify emerging viruses and what restricts cross-species transmission.\n\n\nOur research aims to increase our understanding of virus evolution to improve human health. Therefore, we combine computational and experimental approaches to study virus evolution and virus-host inetractions at scale: From microscopic virus-host protein interactions to the population level.\n\n\n\n\nRNA virus discovery\nCharacterization of novel, replicating circular RNAs\nHost-pathogen interactions\n\n\n\n\n\nEmerging viruses\nvirology at scale\n\n\n\n\n\nPascal Mutz will start his independent group at the University of Ostrava within the LERCO project.\n\nExplore our research"
+  },
+  {
+    "objectID": "home/index.html#understanding-rna-diversity-across-biological-systems",
+    "href": "home/index.html#understanding-rna-diversity-across-biological-systems",
+    "title": "Mutz Lab",
+    "section": "",
+    "text": "Our research investigates the diversity, function, and evolution of RNA molecules in biological systems, with a particular focus on metatranscriptomics, virology, and emerging RNA species.\n\n\nWe aim to develop experimental and computational approaches that reveal hidden layers of transcriptional complexity across cells, microbes, viruses, and circular RNAs.\n\n\n\n\nMetatranscriptomics\nRNA virus discovery\nCircular RNAs\nComputational RNA biology\nHost-pathogen interactions\n\n\n\n\n\nNew publication on RNA diversity (May 2026)\nNew PhD position available (April 2026)\nPresentation at XYZ Conference (March 2026)\n\nExplore our research"
+  },
+  {
+    "objectID": "join/join.html",
+    "href": "join/join.html",
+    "title": "Join us",
+    "section": "",
+    "text": "We are always interested in hearing from motivated students and researchers."
+  },
+  {
+    "objectID": "join/join.html#phd-students",
+    "href": "join/join.html#phd-students",
+    "title": "Join us",
+    "section": "PhD Students",
+    "text": "PhD Students\nPotential PhD candidates should have interests in:\n\nBioinformatics\nRNA biology\nVirology\nComputational biology"
+  },
+  {
+    "objectID": "join/join.html#postdoctoral-researchers",
+    "href": "join/join.html#postdoctoral-researchers",
+    "title": "Join us",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\nWe welcome inquiries from researchers with complementary expertise."
+  },
+  {
+    "objectID": "join/join.html#undergraduate-and-masters-students",
+    "href": "join/join.html#undergraduate-and-masters-students",
+    "title": "Join us",
+    "section": "Undergraduate and Master’s Students",
+    "text": "Undergraduate and Master’s Students\nProjects are available throughout the year."
+  },
+  {
+    "objectID": "join/join.html#contact",
+    "href": "join/join.html#contact",
+    "title": "Join us",
+    "section": "Contact",
+    "text": "Contact\nPlease send:\n\nCV\nBrief statement of interest\nRelevant publications (if applicable)\n\nEmail: your.email@university.edu"
+  },
+  {
+    "objectID": "home/index.html#understanding-how-virus-evolution-impacts-the-interplay-of-viruses-their-hosts",
+    "href": "home/index.html#understanding-how-virus-evolution-impacts-the-interplay-of-viruses-their-hosts",
+    "title": "Virus Evolution",
+    "section": "",
+    "text": "Our research investigates the evolution of viruses and how it impacts the interplay of viruses and their hosts. We focus on RNA viruses and novel RNA replicators with the aim to identify emerging viruses and what restricts cross-species transmission.\n\n\nOur research aims to increase our understanding of virus evolution to improve human health. Therefore, we combine computational and experimental approaches to study virus evolution and virus-host inetractions at scale: From microscopic virus-host protein interactions to the population level.\n\n\n\n\nRNA virus discovery\nCharacterization of novel, replicating circular RNAs\nHost-pathogen interactions\n\n\n\n\n\nEmerging viruses\nvirology at scale\n\n\n\n\n\nPascal Mutz will start his independent group at the University of Ostrava within the LERCO project.\n\nExplore our research"
+  },
+  {
+    "objectID": "publications/publications.html#complete-publication-list",
+    "href": "publications/publications.html#complete-publication-list",
+    "title": "Publications",
+    "section": "Complete Publication List",
+    "text": "Complete Publication List"
+  }
+]

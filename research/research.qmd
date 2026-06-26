@@ -1,0 +1,22 @@
+::: {.hero-subsection}
+
+
+# Research
+
+
+:::
+
+# Main questions
+
+***How many different viruses are out there? Which species can they infect? How many different ones?
+And what are the constraints to infect some species but not others?
+By perusing an interdisciplinary approach spanning bioinformatics and molecular biology approaches, we are looking for answers to these questions.***
+
+
+
+## Current Topics
+
+- Virus discovery
+- Virus evolution
+- Host-virus interactions
+

@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs   # GitHub Pages serves from /docs by default
+
+website:
+  title: "virus evolution & host interaction"
+  favicon: images/vehi.png
+  description: "We study virus evolution and their impact on virus-host dynamics at scale."
+  site-url: https://mutzp.github.io/vehi
+  navbar:
+    logo: images/vehi.png 
+    right:
+      - href: home/index.qmd
+        text: Home
+      - href: research/research.qmd
+        text: Research
+      - href: people/people.qmd
+        text: People
+      - href: publications/publications.qmd
+        text: Publications
+      - href: news/news.qmd
+        text: News
+      - href: join/join.qmd
+        text: Join Us
+      - href: contact/contact.qmd
+        text: Contact
+    pinned: true
+    
+  page-footer:
+      background: "#0d0d1a"
+      foreground: "#888"
+      center:
+      - text: "&copy; 2026 virus evolution & host interaction lab"
+
+
+format:
+  html:
+    theme:
+      - sandstone
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+
+
+

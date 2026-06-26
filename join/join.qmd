@@ -1,0 +1,139 @@
+::: {.hero-subsection}
+
+
+# Join us
+
+We are always interested in hearing from motivated students and researchers who want to be part of the team.
+
+
+:::
+
+
+## Our team vision
+
+
+
+## Open positions
+
+### PhD position:
+
+ - Find the official job ad here [Job ad PhD]
+
+ - Funded for 4 years.
+ 
+***Responsibilities:***
+
+  - Conduct research in the field of virus evolution and virus-host interactions.  
+  - Analyze virus genomics datasets using bioinformatic and computational approaches.   
+  - Combine bioinformatic approaches with molecular biology experiments.  
+  - Contribute to the development of research and publications in high impact journals.   
+  - Present research findings at meetings and conferences.   
+  - Collaborate with members of an interdisciplinary research team. 
+  
+  
+***Qualifications and other requirements:***
+
+***Required:***
+
+  - Master’s degree in Bioinformatics, Computational Biology, Computer Science, Data Science, Infectious diseases, Evolutionary Biology, Biology or a related field.   
+  - Strong interest in virology, primarily eukaryotic RNA viruses.  
+  - Either good skills in programming/scripting languages such as Python or R OR 
+  experience in molecular biology ('wet-lab') and to learn the complementary skill. At least basic understanding of bioinformatics and molecular biology required.  
+  - Excellent communication and scientific writing skills.   
+  - Strong written and spoken English (B2 level).
+  
+  
+ ***Desirable:***
+ 
+  - Prior experience in comparative genomics and phylogenetic analysis.
+  - Prior experience using high-performance computing (HPC) or computational clusters.  
+  - Prior experience in molecular virology techniques and studying virus-host interactions.  
+  - Record of peer-reviewed publications
+  
+***Language in which the selection and interview process will be conducted***
+
+  - English
+ 
+
+
+***List of Documents Required from the Applicant (in English)***
+
+  - Signed Consent to the processing of personal data for the purposes of the selection procedure  
+  - Letter of intent  
+  - Curriculum vitae
+
+***Deadline for submitting applications: 15th August 2026***
+
+Applications for the selection procedure with all the documents required should be sent electronically to the following address: personalni.prf@osu.cz.
+
+To ask further questions about the position and the research project contact the Pi: pascal.mutz@gmx.de
+
+
+-----
+
+### Postdoc position
+
+ - Find the official job ad here [Job ad Postdoc]
+ 
+ - Funded for 2 years with the opportunity for extension
+ 
+***Responsibilities:***
+
+  - Conduct independent research in the field of virus evolution and virus-host interactions. 
+  - Analyze large-scale virus genomics datasets using bioinformatic and computational approaches.
+  - Train and run large language models to predict protein interactions.
+  - Contribute to the development of research projects and lead first-author publications in high impact journals. 
+  - Present research findings at meetings and conferences. 
+  - Collaborate with members of an interdisciplinary research team. 
+  - Assist in mentoring students and junior researchers
+
+***Qualifications and other requirements:***
+
+***Required:***
+
+  - PhD in Bioinformatics, Computational Biology, Computer Science, Data Science, Infectious diseases, Evolutionary Biology, or a related field. 
+  - Strong computational and bioinformatic skills. 
+  - Proficiency in programming/scripting languages such as Python or R. 
+  - Experience using high-performance computing (HPC) or computational clusters.
+  - Experience with protein language models.
+  - Excellent communication and scientific writing skills. 
+  - Ability to work both independently and collaboratively.
+  - Track record of peer-reviewed publications.
+  - Strong written and spoken English.
+  - Interest in virus evolution and studying virus-host interaction. 
+
+***Desirable:***
+
+  - Experience in comparative genomics and phylogenetic analysis. 
+  - Knowledge of RNA viruses. 
+  - Experience to conduct molecular biology experiments (‘wet-lab’).
+  - Knowledge of ecology-based statistics and methods.
+  
+***Language in which the selection and interview process will be conducted***
+
+  - English
+
+
+***List of Documents Required from the Applicant (in English)***
+
+  - Signed Consent to the processing of personal data for the purposes of the selection procedure
+  - Letter of intent
+  - Curriculum vitae
+  - Copy of the doctoral diploma
+
+***Deadline for on-time applications***
+
+  - 15th of August, 2026
+
+
+Applications for the selection procedure with all the documents required should be sent electronically to the following address: personalni.prf@osu.cz.
+To ask further questions about the position and the research project contact the Pi: pascal.mutz@gmx.de
+
+ 
+-----
+
+### Undergraduate and Master's Students
+
+Projects are available throughout the year. Please contact Pasal Mutz directly by a short email explaining your interest in our research.
+
+

@@ -1,0 +1,35 @@
+{
+  "about.qmd": {
+    "about.html": "ca13e5cd"
+  },
+  "index.qmd": {
+    "index.html": "8b90da7f"
+  },
+  "news/join.qmd": {
+    "join.html": "233005cd"
+  },
+  "news/news.qmd": {
+    "news.html": "4ee847ab"
+  },
+  "people/people.qmd": {
+    "people.html": "84af117a"
+  },
+  "publications/publications.qmd": {
+    "publications.html": "0e088747"
+  },
+  "research/research.qmd": {
+    "research.html": "baf6e223"
+  },
+  "home/index.qmd": {
+    "index.html": "2845853c"
+  },
+  "join/join.qmd": {
+    "join.html": "f091166b"
+  },
+  "./home/index.qmd": {
+    "index.html": "90865306"
+  },
+  "contact/contact.qmd": {
+    "contact.html": "1c04aeea"
+  }
+}

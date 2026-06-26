@@ -1,0 +1,24 @@
+::: {.hero-subsection}
+
+
+# People
+
+
+:::
+## Principal Investigator
+
+
+### Pascal Mutz
+![](../images/pi.jpg){width=250px}<br>
+
+
+
+
+
+[Email to Pascal Mutz](mailto:pascal.mutz@gmx.de)
+
+---
+
+## Open positions
+
+We have two open positions! Do you want to join? Klick here: [JOIN US](../join/join.qmd){.btn .btn-primary}
