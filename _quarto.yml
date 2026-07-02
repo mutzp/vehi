@@ -10,7 +10,7 @@ website:
   navbar:
     logo: images/vehi.png 
     right:
-      - href: home/index.qmd
+      - href: index.qmd
         text: Home
       - href: research/research.qmd
         text: Research

@@ -92,3 +92,26 @@ body {
   font-size: 1.05rem;
   line-height: 1.6;
 }
+
+/* Image for research section */
+.profile-row {
+  align-items: center;
+}
+
+.profile-row .column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.profile-row .column:first-child {
+  align-items: center;
+}
+
+.quarto-layout-panel {
+    align-items: center;
+}
+
+.quarto-layout-row {
+    align-items: center;
+}

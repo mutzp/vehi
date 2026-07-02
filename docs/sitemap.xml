@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mutzp.github.io/vehi/research/research.html</loc>
-    <lastmod>2026-06-26T02:04:24.152Z</lastmod>
+    <lastmod>2026-07-01T03:07:02.439Z</lastmod>
   </url>
   <url>
     <loc>https://mutzp.github.io/vehi/people/people.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://mutzp.github.io/vehi/join/join.html</loc>
-    <lastmod>2026-06-26T02:58:13.096Z</lastmod>
+    <lastmod>2026-07-01T03:38:38.530Z</lastmod>
   </url>
   <url>
     <loc>https://mutzp.github.io/vehi/contact/contact.html</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://mutzp.github.io/vehi/publications/publications.html</loc>
     <lastmod>2026-06-26T02:14:41.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mutzp.github.io/vehi/index.html</loc>
+    <lastmod>2026-07-01T03:37:24.320Z</lastmod>
   </url>
 </urlset>
