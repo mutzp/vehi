@@ -15,6 +15,16 @@
 
 ***Our research aims to increase our understanding of virus evolution to improve human health. 
 Therefore, we combine computational and experimental approaches to study virus evolution and virus-host inetractions at scale: From microscopic virus-host protein interactions to  the population level.***
+<br>
+
+
+## Where to find us?
+
+From October 2026 on, we will perform our research at the University of Ostrava, 
+Czech Republic, within the newly founded Life & Environment Research Center Ostrava (LERCO). 
+Explore [LERCO]( https://lerco.osu.eu/){.btn .btn-primary} & [Ostrava University](https://prf.osu.eu/){.btn .btn-primary}
+
+
 
 ## Background
 
