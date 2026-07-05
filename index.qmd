@@ -34,7 +34,7 @@ Increasing our knowledge on the different constraints at different scales helps 
 <br>
 <br>
 
-![](../images/vhi_at_scale.jpg){fig-alt="virus-host interactions at scale"}
+![](images/vhi_at_scale.jpg){fig-alt="virus-host interactions at scale"}
 ***Virus-host interactions at scale: from microscopic intracellular interactions to the population scale.***
 <br>
 <br>
